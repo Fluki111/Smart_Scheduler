@@ -2,7 +2,6 @@ Section 1F
 Group members:
 Louiez Angelo Gadin
 Raymark A. Profetana
-Ivan Dave Sabillo
 Ed Juvanni Lemonsnero
 
 A simple terminal-based Exam Scheduler
